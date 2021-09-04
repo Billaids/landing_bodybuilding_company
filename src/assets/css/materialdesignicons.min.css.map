@@ -1,0 +1,1006 @@
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+<meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+<meta name="msvalidate.01" content="8BAB7574F2CFB135874093D7FC22CA9A" />
+<title>MATERIALDESIGNICONS.MIN.CSS.MAP: DOWNLOAD - CDNPKG</title>
+<meta name="description" content="Download materialdesignicons.min.css.map or get a CDN url for 52 versions of MaterialDesign-Webfont." />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css">
+<link rel="stylesheet" href="/css/main.css" />
+<link rel="stylesheet" href="/css/site.css" />
+<link rel="canonical" href="https://www.cdnpkg.com/MaterialDesign-Webfont/file/materialdesignicons.min.css.map" ">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1016076-26"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1016076-26');
+</script>
+</head>
+<body class="Site">
+<div class="Site-header">
+<div class="eyecatcher"></div>
+<div class="ui stackable borderless main menu">
+<div class="ui container">
+<a href="/" class="header item">
+<i class=""></i>&nbsp; CDNPKG .com
+</a>
+<form class="header item" action="/-/search">
+<div class="ui icon large input">
+<input type="text" name="q" value="" placeholder="Search file, library...">
+<i class="search icon"></i>
+</div>
+<input type="hidden" name="t" value="lib">
+</form>
+<div class="right menu">
+<div class="item"><a href="https://github.com/cdnpkg/cdnpkg.com" target="_blank"><i class="github icon"></i></a></div>
+<div class="item"><a href="https://twitter.com/cdnpkg" target="_blank"><i class="twitter icon"></i></a></div>
+</div>
+</div>
+</div>
+<div class="eyecatcherbottom"></div> </div>
+<div class="Site-content ui container">
+<div class="ui small breadcrumb"><a class="section" href="/">Home</a>
+<i class="right chevron icon divider"></i><a class="section" href="/MaterialDesign-Webfont">MaterialDesign-Webfont</a>
+<i class="right chevron icon divider"></i><div class="active section">materialdesignicons.min.css.map</div></div> <script type="application/ld+json">{ "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 0,
+    "item": {
+      "@id": "/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "/MaterialDesign-Webfont",
+      "name": "MaterialDesign-Webfont"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "null",
+      "name": "materialdesignicons.min.css.map"
+    }
+  }]}</script>
+<h1 class="ui dividing header">materialdesignicons.min.css.map</h1>
+<table class="ui definition compact small table">
+<tbody>
+<tr>
+<td>Filename</td>
+<td>materialdesignicons.min.css.map</td>
+</tr>
+<tr>
+<td>File Type</td>
+<td>Stylesheet Source Map</td>
+</tr>
+<tr>
+<td>Library</td>
+<td><a href="/MaterialDesign-Webfont">MaterialDesign-Webfont</a></td>
+</tr>
+<tr>
+<td>Latest file version</td>
+<td>5.3.45</td>
+</tr>
+<tr>
+<td>Download latest file version</td>
+<td><a target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/5.3.45/materialdesignicons.min.css.map">Download materialdesignicons.min.css.map latest version (5.3.45)</a></td>
+</tr>
+</tbody></table>
+<h2 class="ui dividing header"><small>Download or get link</small></h2>
+<p>materialdesignicons.min.css.map is available in 52 versions of MaterialDesign-Webfont.</p>
+<h3>5.3.45 <small><a title="Download materialdesignicons.min.css.map version 5.3.45" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/5.3.45/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 5.3.45 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>5.2.45 <small><a title="Download materialdesignicons.min.css.map version 5.2.45" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/5.2.45/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.2.45/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.2.45/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 5.2.45 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.2.45/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>5.1.45 <small><a title="Download materialdesignicons.min.css.map version 5.1.45" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/5.1.45/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.1.45/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.1.45/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 5.1.45 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.1.45/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>5.0.45 <small><a title="Download materialdesignicons.min.css.map version 5.0.45" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/5.0.45/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+ <td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.0.45/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.0.45/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 5.0.45 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.0.45/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>4.9.95 <small><a title="Download materialdesignicons.min.css.map version 4.9.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/4.9.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.9.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.9.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 4.9.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.9.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>4.8.95 <small><a title="Download materialdesignicons.min.css.map version 4.8.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/4.8.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.8.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.8.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 4.8.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.8.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>4.4.95 <small><a title="Download materialdesignicons.min.css.map version 4.4.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/4.4.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.4.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.4.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 4.4.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.4.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>4.3.95 <small><a title="Download materialdesignicons.min.css.map version 4.3.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/4.3.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.3.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.3.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 4.3.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.3.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>4.2.95 <small><a title="Download materialdesignicons.min.css.map version 4.2.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/4.2.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.2.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.2.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 4.2.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.2.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>4.1.95 <small><a title="Download materialdesignicons.min.css.map version 4.1.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/4.1.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.1.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.1.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 4.1.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.1.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>4.0.96 <small><a title="Download materialdesignicons.min.css.map version 4.0.96" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/4.0.96/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.0.96/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.0.96/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 4.0.96 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/4.0.96/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.9.97 <small><a title="Download materialdesignicons.min.css.map version 3.9.97" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.9.97/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.97/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.97/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.9.97 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.97/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.9.96 <small><a title="Download materialdesignicons.min.css.map version 3.9.96" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.9.96/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.96/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.96/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.9.96 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.96/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.9.95 <small><a title="Download materialdesignicons.min.css.map version 3.9.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.9.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.9.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.9.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.8.95 <small><a title="Download materialdesignicons.min.css.map version 3.8.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.8.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.8.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.8.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.8.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.8.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.7.95 <small><a title="Download materialdesignicons.min.css.map version 3.7.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.7.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.7.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.7.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.7.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.7.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.7.94 <small><a title="Download materialdesignicons.min.css.map version 3.7.94" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.7.94/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.7.94/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.7.94/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.7.94 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.7.94/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.6.95 <small><a title="Download materialdesignicons.min.css.map version 3.6.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.6.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.6.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.6.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.6.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.6.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.5.95 <small><a title="Download materialdesignicons.min.css.map version 3.5.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.5.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.5.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.5.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.5.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.5.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.5.94 <small><a title="Download materialdesignicons.min.css.map version 3.5.94" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.5.94/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.5.94/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.5.94/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.5.94 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.5.94/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.4.93 <small><a title="Download materialdesignicons.min.css.map version 3.4.93" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.4.93/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.4.93/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.4.93/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.4.93 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.4.93/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.3.92 <small><a title="Download materialdesignicons.min.css.map version 3.3.92" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.3.92/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.3.92/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.3.92/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.3.92 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.3.92/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.2.89 <small><a title="Download materialdesignicons.min.css.map version 3.2.89" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.2.89/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.2.89/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.2.89/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.2.89 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.2.89/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>3.0.39 <small><a title="Download materialdesignicons.min.css.map version 3.0.39" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/3.0.39/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.0.39/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.0.39/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 3.0.39 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/3.0.39/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.8.94 <small><a title="Download materialdesignicons.min.css.map version 2.8.94" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.8.94/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.8.94/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.8.94/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.8.94 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.8.94/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.7.94 <small><a title="Download materialdesignicons.min.css.map version 2.7.94" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.7.94/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.7.94/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.7.94/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.7.94 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.7.94/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.6.95 <small><a title="Download materialdesignicons.min.css.map version 2.6.95" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.6.95/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.6.95/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.6.95/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.6.95 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.6.95/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.5.94 <small><a title="Download materialdesignicons.min.css.map version 2.5.94" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.5.94/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.5.94/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.5.94/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.5.94 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.5.94/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.4.85 <small><a title="Download materialdesignicons.min.css.map version 2.4.85" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.4.85/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.4.85/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.4.85/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.4.85 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.4.85/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.3.54 <small><a title="Download materialdesignicons.min.css.map version 2.3.54" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.3.54/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.3.54/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.3.54/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.3.54 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.3.54/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.2.43 <small><a title="Download materialdesignicons.min.css.map version 2.2.43" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.2.43/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.2.43/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.2.43/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.2.43 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.2.43/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.1.99 <small><a title="Download materialdesignicons.min.css.map version 2.1.99" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.1.99/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.1.99/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.1.99/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.1.99 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.1.99/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.1.19 <small><a title="Download materialdesignicons.min.css.map version 2.1.19" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.1.19/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.1.19/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.1.19/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.1.19 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.1.19/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>2.0.46 <small><a title="Download materialdesignicons.min.css.map version 2.0.46" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/2.0.46/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.0.46/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.0.46/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 2.0.46 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.0.46/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.9.33 <small><a title="Download materialdesignicons.min.css.map version 1.9.33" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.9.33/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.9.33/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.9.33/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.9.33 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.9.33/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.9.32 <small><a title="Download materialdesignicons.min.css.map version 1.9.32" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.9.32/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.9.32/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.9.32/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.9.32 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.9.32/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.8.36 <small><a title="Download materialdesignicons.min.css.map version 1.8.36" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.8.36/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.8.36/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.8.36/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.8.36 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.8.36/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.7.22 <small><a title="Download materialdesignicons.min.css.map version 1.7.22" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.7.22/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.7.22/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.7.22/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.7.22 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.7.22/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.7.12 <small><a title="Download materialdesignicons.min.css.map version 1.7.12" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.7.12/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.7.12/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.7.12/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.7.12 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.7.12/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.6.50 <small><a title="Download materialdesignicons.min.css.map version 1.6.50" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.6.50/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.6.50/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.6.50/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.6.50 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.6.50/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.5.54 <small><a title="Download materialdesignicons.min.css.map version 1.5.54" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.5.54/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.5.54/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.5.54/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.5.54 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.5.54/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.4.57 <small><a title="Download materialdesignicons.min.css.map version 1.4.57" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.4.57/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.4.57/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.4.57/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.4.57 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.4.57/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.3.41 <small><a title="Download materialdesignicons.min.css.map version 1.3.41" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.3.41/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.3.41/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.3.41/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.3.41 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.3.41/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.2.65 <small><a title="Download materialdesignicons.min.css.map version 1.2.65" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.2.65/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.2.65/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.2.65/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.2.65 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.2.65/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.2.64 <small><a title="Download materialdesignicons.min.css.map version 1.2.64" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.2.64/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.2.64/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.2.64/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.2.64 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.2.64/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.1.70 <small><a title="Download materialdesignicons.min.css.map version 1.1.70" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.1.70/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.1.70/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.1.70/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.1.70 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.1.70/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.1.34 <small><a title="Download materialdesignicons.min.css.map version 1.1.34" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.1.34/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.1.34/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.1.34/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.1.34 from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.1.34/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.0.62-beta <small><a title="Download materialdesignicons.min.css.map version 1.0.62-beta" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.0.62-beta/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.0.62-beta/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.0.62-beta/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.0.62-beta from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.0.62-beta/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>1.0.8-beta <small><a title="Download materialdesignicons.min.css.map version 1.0.8-beta" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/1.0.8-beta/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.0.8-beta/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.0.8-beta/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 1.0.8-beta from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/1.0.8-beta/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>0.9.72-alpha <small><a title="Download materialdesignicons.min.css.map version 0.9.72-alpha" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/0.9.72-alpha/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.72-alpha/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.72-alpha/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 0.9.72-alpha from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.72-alpha/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>0.9.22-alpha <small><a title="Download materialdesignicons.min.css.map version 0.9.22-alpha" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/0.9.22-alpha/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.22-alpha/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.22-alpha/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 0.9.22-alpha from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.22-alpha/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+<h3>0.9.21-alpha <small><a title="Download materialdesignicons.min.css.map version 0.9.21-alpha" target="_blank" rel="nofollow noopener noreferrer" href="https://get.cdnpkg.com/MaterialDesign-Webfont/0.9.21-alpha/materialdesignicons.min.css.map"><i class="download icon"></i></a></small></h3>
+<table class="ui definition small compact table">
+<thead>
+<tr><th></th>
+<th>cdnjs</th>
+</tr></thead>
+<tbody>
+
+<tr>
+<td>URL</td>
+<td><a href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.21-alpha/css/materialdesignicons.min.css.map" target="_blank" rel="nofollow noopener noreferrer">https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.21-alpha/css/materialdesignicons.min.css.map</a></td>
+</tr>
+<tr>
+<td>Download</td>
+<td><a title="Download materialdesignicons.min.css.map version 0.9.21-alpha from cdnjs" href="#" onclick="javascript:downloadFile('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/0.9.21-alpha/css/materialdesignicons.min.css.map','materialdesignicons.min.css.map');void(0)"><i class="download icon"></i>download</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="Site-footer">
+<div class="ui inverted vertical footer segment" style="margin-top: 50px;">
+<div class="ui container">
+<div id="footer"><small>Copyright 2018 - cdnpkg.com</small>
+</div>
+</div>
+</div>
+</div>
+<script async type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript">
+function downloadFile(url,filename){
+	var a = document.createElement('a');
+	a.href = url;
+	a.download = filename; // Set the file name.
+	a.style.display = 'none';
+	document.body.appendChild(a);
+	a.click();
+	delete a;
+}
+</script>
+</body>
+</html>

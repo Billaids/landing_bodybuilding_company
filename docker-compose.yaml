@@ -1,0 +1,24 @@
+version: "3.3"
+networks:
+  web:
+    external: true
+services:
+  landing:
+    tty: true
+    image: landing:latest
+    container_name: landing
+    networks:
+      - web
+    labels:
+      - traefik.enable=true
+      - traefik.frontend=landing-frontend
+      - traefik.docker.network=web
+      - traefik.http.middlewares.landing-compress.compress=true
+      - traefik.http.routers.landing.middlewares=landing-compress,stripheader
+      - traefik.http.routers.landing-frontend.middlewares=landing-frontend-https-redirect
+      - traefik.http.services.landing-frontend.loadbalancer.server.port=5000
+      - "traefik.http.routers.landing-frontend-secure.rule=Host(`YOURDOMAIN`)"
+      - "traefik.http.routers.landing-frontend-secure.tls=true"
+      - "traefik.http.routers.landing-frontend-secure.tls.certresolver=lets-encrypt"
+      - "traefik.http.routers.landing-frontend-secure.service=landing-frontend"
+      - traefik.port=5000
